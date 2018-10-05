@@ -1,4 +1,4 @@
-# unusable_report_uploader_by_selenium
+# unusable_uploader_by_selenium
 Test python code to play with selenuim. It's not useful and not fun(Using personal server)
 
 It can't be reusuable for one reason
