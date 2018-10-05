@@ -1,5 +1,10 @@
-# selenium_for_report
+# unusable_report_uploader_by_selenium
 Test python code to play with selenuim. It's not useful and not fun(Using personal server)
+
+It can't be reusuable for one reason
+>using personal server(html, css is different)
+
+but anyway im going to keep using it.
 
 
 Evaluation
