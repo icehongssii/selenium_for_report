@@ -4,7 +4,7 @@ Test python code to play with selenuim. It's not useful and not fun(Using person
 It can't be reusuable for one reason
 >using personal server(html, css is different)
 
-but anyway im going to keep using it.
+even i can't use it anymore(server has been down)
 
 
 Evaluation
